@@ -1,0 +1,25 @@
+body {
+  background-color: #161616;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.wrapper {
+  display: flex;
+}
+
+.wrapper img {
+  width: 300px;
+}
+
+.info {
+  margin-left: 20px;
+}
+
+.info a {
+  display: block;
+  margin-top: 12px;
+  font-size: 22px;
+  color: white;
+}

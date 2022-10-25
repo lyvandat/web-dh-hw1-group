@@ -1,0 +1,22 @@
+body {
+  color: white;
+}
+
+img {
+  display: block;
+  margin-right: 20px;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.wrapper img {
+  width: 300px;
+}
+
+body a {
+  font-size: 22px;
+  color: inherit;
+}
